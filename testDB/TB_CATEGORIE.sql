@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[TB_CATEGORIE]
+(
+	[ID_categorie] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Nom_categorie] VARCHAR(50) NULL
+)
